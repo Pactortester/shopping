@@ -19,4 +19,7 @@ public class CategoryDTO implements Serializable {
     //排序
     private Integer sort;
 
+    //价格
+    private String price;
+
 }
